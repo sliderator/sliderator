@@ -1,0 +1,13 @@
+**showcase proof of concept**
+-Stream the use of a stable version of the app
+
+
+**Improving Stable Releases**
+
+-EXPLICITLY label when the app is functioning correctly in git logs
+-Push STABLE states of the app to a new repository
+
+
+**References**
+
+-Henry needs to send example slides, use these slides for reference

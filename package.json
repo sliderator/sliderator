@@ -1,0 +1,16 @@
+{
+  "name": "sliderator",
+  "description": "An app that translates text to google slides",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "express-validator": "^3.2.1",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^20.1.0",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "start": "node test.js"
+  }
+}

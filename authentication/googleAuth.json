@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robotic-shelter-174606",
+  "private_key_id": "266230d70e7e46c73bba5c95eabc05cbe1a2a77f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDFEMmHxcp/EQn+\ns7IqBF3xLVf/9frEB1zinb/Y6R7On3+GJ59UeTwGm3pLacxXY76zIj9UJJr7jvmm\nOtKMJM+V9l39mUx0qZthzq0eH+r6Ywf21izkL6I1McqUUAkPelMYAbYwT+N1zhmu\nknoOD0Ur1rCp8yFjUU0Nbdg3iANOhjv7fZUy5yRhR8MV9wFGHsXQOzmfN2p0D2IQ\nH4Cw8cuyqifPxSOKNVXZDifsjGNa/qMEnPXzwKYOvpc0Yvl0CC6zH0AFBCBfYKS8\nQgSCR/OdK2ss6Y9z2IXMDnJxNcXR0VpsC5VxCnX3pXCrE5M0vhTPfi2oBMVj7X/7\n7ekLb1qzAgMBAAECggEASvNtkwQ5VkbGxGbYFn7+s+IJHEMUE0axn0dcVkWj//ZN\n7FpZkSljGSg9RT2CCKLZPwyBhaE+iPsCHKU2uzKs+V5wtSl/GMgBXxvaYCDHoF/W\nAZ3ICSnMyeqcH/io2Ygu3myYPJvF6WJwBiOT5JEOP/Qx0RG12y5q3favS7+hclWU\n07Wj7ystgUWnPd3OCWiQ48yv+/tkAx5omBG5GVvK+ldDHEu2h3Bb4TX/rNS+rSOj\nSR0zkEmSU8KaZ3OWFhU7ZA2ceRq3gzShwvzBszl3dGYzJAp+sM7crHam1hyBja9n\niWcZOt/zCDGXLv8CAknQp7sLKNauDKhUZ6zeLzJH8QKBgQDhHgwdAIFD3PD8hrxq\nl077JwoEXxhGbLN/fs8sFGLftI4XWsrP3a+l4odNTMMzr10H7cFjFlfjfgKC8tp+\nee/gEGX7VEbbBLKreP/nJVBzUMZM7SS8un4y1ImxDE8aW7/A1oN/pa/0eMSCsZJK\nNxelQAwjK1amzZKjBQf9u1O2HQKBgQDgGZT3ufSwtsE2eH//ORtRLcmU9rcaBSgg\nCpVbLGq5ulfSt0Ep4dEEeOaGIZ62gF5+oe85ajmsl/SbEJBfb2PSECJexRVC6SDo\n+lADheSDtaZMgSdpVhqxqrk0C4jnioR+HN5PFToII5wFh2Yerxqa2C78lQXMjd4g\n5JAKH5s7DwKBgQCYWP1Zoz3X724neAeLG1sYHRNqYfDLuETBw8/wxNslCcwfghI/\nGogEe4mVhp2UHNmYxA5cQIK6Mk0A0dmMPnlX6cEala5eCo/f+8Mzas1HPSL2bIaw\nMoW1YKDOcMYX0H+0wXe8qySpDhHvYLzf/OjDrNSJ+Ipr2DOkn4MI8/1zAQKBgQCs\nL5vBN9UljlYody/Jt2Qg3LB9T49iY8Hv1JHrqtYZ/G6MThe4iXRjHk3pk51yFnIE\nlIHNuKu1zE+6cWCso1asSY9PB9kNPzj1KZcfDdqFxKWRNM9GZU0/Y7DHp3E6jri8\neYvqcaHULSAtM1qoitxDS4XWtt3szLh2x4dQ7/YCywKBgQCEFPOvKMloZQ5sZY+C\nPYGGFIC061Y6VG29dsEt3Iqru+wkNq54F5c1dfiwCJZvmCFveFmVJxHZlX3Ewg+p\nAPVT4h7USH4gL4HYuqpIGai516xPNcyD+IK1EDWgzmd3F8OJgFCW92VNtjLXL1EA\nD4ll+ioijAZqxakXc6B9q9GDHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sliderator@robotic-shelter-174606.iam.gserviceaccount.com",
+  "client_id": "101252566324950375813",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sliderator%40robotic-shelter-174606.iam.gserviceaccount.com"
+}
